@@ -1,2 +1,2 @@
 # MagmaExercises
-Exercices of crupto with the magma language
+Exercices of crypto with the magma language
