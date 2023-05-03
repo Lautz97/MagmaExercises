@@ -1,4 +1,3 @@
-// load "C:/Users/ryuza/Documents/Univaq/Crypto/2023/MagmaAssignment04/Assignment04_Lauterio_282248.txt";
 ""; 
 "";
 "Implemented by Lauterio Davide matricola: 282248", "\n"; 
@@ -188,7 +187,7 @@ s := R!Dpub^aDH;
 "Davide's public key: ", Dpub;
 "shared secret between davide and professor: ", s, "\n";
 
-load "C:/Users/ryuza/Documents/Univaq/Crypto/2023/EncodingExercise/EncodeDecodeAlphabet.m";
+load "../EncodingExercise/EncodeDecodeAlphabet.m";
 
 S := Integers()!s;
 ciphertext := "FUAUM";
