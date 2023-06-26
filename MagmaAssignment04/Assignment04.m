@@ -1,6 +1,6 @@
 ""; 
 "";
-"Implemented by Lauterio Davide matricola: 282248", "\n"; 
+"Implemented by Lauterio Davide @Lautz97";
 
 // Definizione parametri per il metodo di Pohlig-Hellman
 G := 0;
